@@ -20,7 +20,7 @@ DISCLAIMER
 
 - **Root:** KernelSU / KernelSU Next / SukiSU Ultra, etc.
 - **Meta Module:** Required
-  - Recommended: **Hybrid Mount** (Mode: Default â€“ OverlayFS) âœ…
+  - Recommended: **Hybrid Mount** (Mode: Default - OverlayFS)
 
 ### Installation
 
@@ -59,7 +59,7 @@ enabled, and you rebooted after flashing.
 Finally, I successfully ported the Nothing Camera APK + Camera HAL to Tetris Custom ROM,
 with the valuable contributions and support of many members. â¤ï¸
 
-A huge â¤ï¸ thank you to everyone who contributed to this project and supported the porting process.
+A huge thank you to everyone who contributed to this project and supported the porting process.
 
 **Special thanks to these members for providing important logs and files from the stock ROM
 while I was porting the Nothing Camera APK:**
