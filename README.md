@@ -43,7 +43,7 @@ A **Meta Module** is required for mounting the port correctly.
 
 - **Hybrid Mount**
 - Mount Mode: **Default – OverlayFS**
-
+- Ksu User - Disable It - Unmount Module By Default .
 ---
 
 ## Installation
